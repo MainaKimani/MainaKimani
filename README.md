@@ -1,7 +1,7 @@
 ## Hi there, I'm Maina.
 
 
-[![Maina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Maina&show_icons=true&hide=stars,issues&count_private=true)](https://github.com/Alex-Maina/github-readme-stats)
+[![Maina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Maina&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/Alex-Maina/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-maina&show_icons=true&locale=en&layout=compact" alt="alex-maina" /></p>
 
