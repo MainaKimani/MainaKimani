@@ -1,12 +1,9 @@
 ## Hi there, I'm Maina.
 
-<h3 align="center">A passionate Software Designer and Developer from Nairobi, Kenya.</h3>
 
 [![Maina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Maina&show_icons=true&hide=stars,issues&count_private=true)](https://github.com/Alex-Maina/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-maina&show_icons=true&locale=en&layout=compact" alt="alex-maina" /></p>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-maina&label=Profile%20views&color=0e75b6&style=flat" alt="alex-maina" /> </p>
 
