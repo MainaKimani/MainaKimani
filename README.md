@@ -1,14 +1,14 @@
 ## Hi there, I'm Maina.
 
 
-[![Maina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Maina&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/Alex-Maina/github-readme-stats)
+[![Maina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainaKimani&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/Alex-Maina/github-readme-stats)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-maina&label=Profile%20views&color=0e75b6&style=flat" alt="Maina Kimani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MainaKimani&label=Profile%20views&color=0e75b6&style=flat" alt="Maina Kimani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maina_kimani_" target="blank"><img src="https://img.shields.io/twitter/follow/maina_kimani_?logo=twitter&style=for-the-badge" alt="maina_kimani_" /></a> </p>
 
-- 🔭 I’m currently working on [Project Tracking System](https://github.com/Alex-Maina/Project-Tracking-System) using C# and .NET
+- 🔭 I’m currently working on [Project Tracking System](https://github.com/MainaKimani/Project-Tracking-System) using C# and .NET
 
 - 📝 I also write articles on [https://medium.com/@maina_kimani](https://medium.com/@maina_kimani)
 
