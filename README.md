@@ -8,7 +8,7 @@
 
 - 📝 I also write articles on [https://medium.com/@maina_kimani](https://medium.com/@maina_kimani)
 
-- 💬 Ask me about **react.js, node.js, and matters related to UI/UX.**
+- 💬 Ask me about **Python and JavaScript, or matters related to UI/UX.**
 
 - 📫 How to reach me **me@mainakimani.com**
 
