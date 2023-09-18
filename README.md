@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/maina_kimani_" target="blank"><img src="https://img.shields.io/twitter/follow/maina_kimani_?logo=twitter&style=for-the-badge" alt="maina_kimani_" /></a></p>
 
-- 🔭 I’m currently expanding my react knowledge and good CI/CD approaches.
+- 🔭 I’m currently expanding my angular knowledge and good CI/CD approaches.
 
 - 📝 I also write articles on [https://medium.com/@maina_kimani](https://medium.com/@maina_kimani)
 
 - 💬 Ask me about **Python and JavaScript, or matters related to UI/UX.**
 
-- 📫 How to reach me **me@mainakimani.com**
+- 📫 How to reach me **mail@mainakimani.com**
 
 - ⚡ **When does a joke become a dad joke? Guess when it becomes apparent**
 
